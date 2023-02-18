@@ -1,0 +1,4 @@
+aspose-words==23.2.0
+Aspose.Slides==23.1.0
+python-magic==0.4.27
+utils==0.0.0
